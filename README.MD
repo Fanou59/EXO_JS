@@ -5,7 +5,7 @@ Ce dépôt contient une série d'exercices d'algorithmie réalisés en JavaScrip
 ## Table des matières
 
 1. [Exercice 1 : Filtrer les nombres pairs et impairs d'un tableau](#exercice-1--filtrer-les-nombres-pairs-et-impairs-dun-tableau)
-2. [Exercice 2 : Vérifier si une chaîne de caractères est un palindrome](#exercice-2--vérifier-si-une-chaîne-de-caractères-est-un-palindrome un-palindrome)
+2. [Exercice 2 : Vérifier si une chaîne de caractères est un palindrome](#exercice-2--vérifier-si-une-chaîne-de-caractères-est-un-palindrome)
 3. [Exercice 3 : Trouver les nombres premiers dans un intervalle](#exercice-3--trouver-les-nombres-premiers-dans-un-intervalle)
 
 ## Exercice 1 : Filtrer les nombres pairs et impairs d'un tableau
